@@ -1,3 +1,3 @@
 # RxNeteaseCloudMusicAPI
 
-A description of this package.
+NeteaseCloudMusicAPI RxSwift Extension
